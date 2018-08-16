@@ -1,0 +1,21 @@
+Jaunt 1.4.4 (Monthly Edition) Release Notes
+
+Release date: Jul 15, 2018
+Expiry date: Aug 31, 2018
+
+Installation Instructions & Quickstart Tutorial:
+http://jaunt-api.com/jaunt-tutorial.htm
+
+CHANGES:
+
+Bugfix: Table.getCell(int,int) no longer throws an ArrayIndexOutOfBoundException in certain conditions.
+
+Changes to Class Element:
+getText() renamed to getChildText()
+getText(boolean) renamed to getChildText(boolean)
+
+Changes to Class Node:
+nextSiblingNode() renamed to nextNodeSibling()
+previousSiblingNode() renamed to previousNodeSibling()
+
+
