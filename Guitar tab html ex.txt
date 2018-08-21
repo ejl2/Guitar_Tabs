@@ -1,4 +1,4 @@
-Weird Fishes TAB class = 
+Weird Fishes TAB class =
 
 <div class="_1iQi2" tabhighlight="0,5,6,12" bandhighlight="" jsclass="NaN" style="">
 	<div class="_1RJlF _1Ccpi _22VxS"><span class="_33Vdc"></span></div>
@@ -9,3 +9,10 @@ Weird Fishes TAB class =
 
 
 
+<a href="https://tabs.ultimate-guitar.com/tab/radiohead/weird_fishes_arpeggi_official_2254571" class="link-primary _1kcZ5"><span class=""><span><b>Weird</b></span><span> </span><span><b>Fishes</b></span><span> Arpeggi</span></span></a>
+
+<div class="_1aOjb">8</div>
+
+<div class="_1RJlF _2fyaZ">official</div>
+
+<div class="_1RJlF _3IBgH"><div class="_2NO3x"><div class="_2Zl05"><svg name="star_fill" size="md" class="_17wnd _2n17g _1uXn5" viewBox="0 0 16 16"><g fill-rule="evenodd"><path d="M8.007 11.037L11.232 13l-.856-3.7 2.849-2.49-3.752-.32L8.007 3 6.541 6.49l-3.751.32L5.639 9.3 4.783 13l3.224-1.963" fill="#FF5D55" fill-rule="nonzero"></path></g></svg><svg name="star_fill" size="md" class="_17wnd _2n17g _1uXn5" viewBox="0 0 16 16"><g fill-rule="evenodd"><path d="M8.007 11.037L11.232 13l-.856-3.7 2.849-2.49-3.752-.32L8.007 3 6.541 6.49l-3.751.32L5.639 9.3 4.783 13l3.224-1.963" fill="#FF5D55" fill-rule="nonzero"></path></g></svg><svg name="star_fill" size="md" class="_17wnd _2n17g _1uXn5" viewBox="0 0 16 16"><g fill-rule="evenodd"><path d="M8.007 11.037L11.232 13l-.856-3.7 2.849-2.49-3.752-.32L8.007 3 6.541 6.49l-3.751.32L5.639 9.3 4.783 13l3.224-1.963" fill="#FF5D55" fill-rule="nonzero"></path></g></svg><svg name="star_fill" size="md" class="_17wnd _2n17g _1uXn5" viewBox="0 0 16 16"><g fill-rule="evenodd"><path d="M8.007 11.037L11.232 13l-.856-3.7 2.849-2.49-3.752-.32L8.007 3 6.541 6.49l-3.751.32L5.639 9.3 4.783 13l3.224-1.963" fill="#FF5D55" fill-rule="nonzero"></path></g></svg><svg name="star_fill" size="md" class="_17wnd _2n17g _1uXn5" viewBox="0 0 16 16"><g fill-rule="evenodd"><path d="M8.007 11.037L11.232 13l-.856-3.7 2.849-2.49-3.752-.32L8.007 3 6.541 6.49l-3.751.32L5.639 9.3 4.783 13l3.224-1.963" fill="#FF5D55" fill-rule="nonzero"></path></g></svg></div><div class="_1aOjb">8</div></div></div>
